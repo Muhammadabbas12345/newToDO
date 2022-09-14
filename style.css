@@ -1,0 +1,51 @@
+#sec1{
+    background-color: greenyellow;
+    border: solid red 10px;
+    border-radius: 10px;
+    /* border-style: groove; */
+   /* margin-left: 25%;
+   margin-top: 5%; */
+   /* margin: 10%; */
+    
+    height: 400px;
+    /* padding: 10%; */
+    overflow: scroll;
+    margin: 0% 0% 5% 0% ;
+}
+
+.input{
+    border-radius: 10px;
+
+    width: 350px;
+    height: 43px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border: solid 4px white;
+}
+
+
+
+.btn{
+    height: 45px;
+    width: 100px;
+    background-color: red;
+    color: white;
+}
+.btn1{
+    height: 45px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+
+.btnn{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 200px;
+}
+.li{
+    font-size: 30px;
+    color: blue;
+}
